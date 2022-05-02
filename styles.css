@@ -1,0 +1,40 @@
+/* .main{
+    text-align: center;
+}
+.img-div{
+    width: 60px;
+    height: 60px;
+    position: relative;
+    padding-right: 30px;
+}
+.tribute-info{
+    text-align: center;
+    border: 2px orangered;
+} */
+
+*{
+    box-sizing: 0;
+    background-color: rgb(180, 174, 174);
+}
+.Alex{
+    text-align: center;
+}
+.Alex>h1>p{
+    margin: 0px 20px;
+}
+#img-div{
+    text-align: center;
+}
+img{
+    width: 400px;
+}
+ .longList{
+     margin: 0px 200px 0px 200px;
+ }
+ #tribute-info{
+     text-align: center;
+ }
+ .Afolabi{
+     text-align: center;
+ }
+ 
